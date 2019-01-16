@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Haerul Muttaqin</title>
+    <link>https://haerulmuttaqin.site/tags/</link>
+    <description>Recent content in Tags on Haerul Muttaqin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 14 Jan 2019 23:03:13 +0700</lastBuildDate>
+    
+	<atom:link href="https://haerulmuttaqin.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://haerulmuttaqin.site/tags/mysql/</link>
+      <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
+      
+      <guid>https://haerulmuttaqin.site/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://haerulmuttaqin.site/tags/php/</link>
+      <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
+      
+      <guid>https://haerulmuttaqin.site/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volley</title>
+      <link>https://haerulmuttaqin.site/tags/volley/</link>
+      <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
+      
+      <guid>https://haerulmuttaqin.site/tags/volley/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
