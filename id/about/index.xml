@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Haerul Muttaqin</title>
-    <link>https://haerulmuttaqin.site/about/</link>
+    <link>https://haerulmuttaqin.site/id/about/</link>
     <description>Recent content in About on Haerul Muttaqin</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 04 Oct 2018 01:32:14 +0700</lastBuildDate>
     
-	<atom:link href="https://haerulmuttaqin.site/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haerulmuttaqin.site/id/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

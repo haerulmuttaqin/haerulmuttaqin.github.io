@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Haerul Muttaqin</title>
+    <link>https://haerulmuttaqin.site/about/</link>
+    <description>Recent content in About on Haerul Muttaqin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Oct 2018 01:32:14 +0700</lastBuildDate>
+    
+	<atom:link href="https://haerulmuttaqin.site/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

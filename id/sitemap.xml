@@ -3,158 +3,158 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://haerulmuttaqin.site/blog/login-register/</loc>
+    <loc>https://haerulmuttaqin.site/id/blog/login-register/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/blog/login-register/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/blog/login-register/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/blog/login-register/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/about/</loc>
+    <loc>https://haerulmuttaqin.site/id/about/</loc>
     <lastmod>2018-10-04T01:32:14+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/about/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/about/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/contact/</loc>
+    <loc>https://haerulmuttaqin.site/id/contact/</loc>
     <lastmod>2018-10-04T01:32:14+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/contact/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/contact/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/blog/</loc>
+    <loc>https://haerulmuttaqin.site/id/blog/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/blog/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/blog/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/categories/</loc>
+    <loc>https://haerulmuttaqin.site/id/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/</loc>
+    <loc>https://haerulmuttaqin.site/id/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/tags/mysql/</loc>
+    <loc>https://haerulmuttaqin.site/id/tags/mysql/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/tags/mysql/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/tags/mysql/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/tags/mysql/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/tags/php/</loc>
+    <loc>https://haerulmuttaqin.site/id/tags/php/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/tags/php/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/tags/php/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/tags/php/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/tags/</loc>
+    <loc>https://haerulmuttaqin.site/id/tags/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
                 href="https://haerulmuttaqin.site/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://haerulmuttaqin.site/id/tags/"
+                />
   </url>
   
   <url>
-    <loc>https://haerulmuttaqin.site/tags/volley/</loc>
+    <loc>https://haerulmuttaqin.site/id/tags/volley/</loc>
     <lastmod>2019-01-14T23:03:13+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haerulmuttaqin.site/en/tags/volley/"
+                href="https://haerulmuttaqin.site/tags/volley/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://haerulmuttaqin.site/tags/volley/"
+                href="https://haerulmuttaqin.site/id/tags/volley/"
                 />
   </url>
   
