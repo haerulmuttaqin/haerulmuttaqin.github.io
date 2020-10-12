@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Haerul Muttaqin</title>
-    <link>https://haerulmuttaqin.site/id/tags/</link>
+    <link>https://haerul.pasbe.id/id/tags/</link>
     <description>Recent content in Tags on Haerul Muttaqin</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 14 Jan 2019 23:03:13 +0700</lastBuildDate>
-    
-	<atom:link href="https://haerulmuttaqin.site/id/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+	<atom:link href="https://haerul.pasbe.id/id/tags/index.xml" rel="self" type="application/rss+xml" />
+
+
     <item>
       <title>Mysql</title>
-      <link>https://haerulmuttaqin.site/id/tags/mysql/</link>
+      <link>https://haerul.pasbe.id/id/tags/mysql/</link>
       <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
-      
-      <guid>https://haerulmuttaqin.site/id/tags/mysql/</guid>
+
+      <guid>https://haerul.pasbe.id/id/tags/mysql/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Php</title>
-      <link>https://haerulmuttaqin.site/id/tags/php/</link>
+      <link>https://haerul.pasbe.id/id/tags/php/</link>
       <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
-      
-      <guid>https://haerulmuttaqin.site/id/tags/php/</guid>
+
+      <guid>https://haerul.pasbe.id/id/tags/php/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Volley</title>
-      <link>https://haerulmuttaqin.site/id/tags/volley/</link>
+      <link>https://haerul.pasbe.id/id/tags/volley/</link>
       <pubDate>Mon, 14 Jan 2019 23:03:13 +0700</pubDate>
-      
-      <guid>https://haerulmuttaqin.site/id/tags/volley/</guid>
+
+      <guid>https://haerul.pasbe.id/id/tags/volley/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>

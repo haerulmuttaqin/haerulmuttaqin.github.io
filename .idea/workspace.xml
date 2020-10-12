@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf2b78a8-6174-41d5-a623-7b0e7dd471b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/login-register/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/login-register/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/en/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/about/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/blog/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/blog/login-register/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/blog/login-register/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/blog/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/blog/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/contact/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/contact/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/mysql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/mysql/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/mysql/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/mysql/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/mysql/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/php/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/php/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/php/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/php/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/php/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/volley/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/volley/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/volley/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/volley/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/tags/volley/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/tags/volley/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/mysql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/mysql/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/mysql/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/mysql/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/mysql/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/php/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/php/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/php/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/php/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/php/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/volley/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/volley/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/volley/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/volley/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/volley/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/volley/page/1/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>haerulmuttaqin.site</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>haerul.pasbe.id</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/haerulmuttaqin.site.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="y" value="-20" />
+    <option name="width" value="3790" />
+    <option name="height" value="2085" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="haerulmuttaqin.site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haerulmuttaqin.site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf2b78a8-6174-41d5-a623-7b0e7dd471b8" name="Default Changelist" comment="" />
+      <created>1602538375737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602538375737</updated>
+      <workItem from="1602538376899" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="266000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15973154" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Remote Host" order="3" weight="0.24161074" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" weight="0.39355743" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.48879552" />
+      <window_info anchor="bottom" id="Database Console" order="11" sideWeight="0.49932885" weight="0.48179272" />
+      <window_info anchor="bottom" id="SQL Generator" order="12" weight="0.61484593" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.3282123" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067115" side_tool="true" weight="0.5" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="15" weight="0.3290461" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32913166" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.18389262" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
